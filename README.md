@@ -1,8 +1,8 @@
 ## 📌 Olá! Eu sou o Thiago Karsten 📌
 
-- 🌱 Estudando Java, JavaScript, Html, Css, Git e GitHub
+- 🌱 Estudando JavaScript, Html, Css, Git e GitHub
 - 💻 Cursando Sistemas da Informação (FURB)
-- 🔍 Procurando um emprego como desenvolvedor back-end, front-end ou mobile
+- 🔍 Procurando um emprego como desenvolvedor front-end ou mobile
 - ⚡ Sempre aprimorando meus conhecimentos
 - 🏁 Hobby: piloto de kart
 
