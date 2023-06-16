@@ -1,8 +1,8 @@
 ## 📌 Olá! Eu sou o Thiago Karsten 📌
 
-- 🌱 Estudando JavaScript, Html, Css, Git e GitHub
+- 🌱 "A tecnologia move o mundo"
 - 💻 Cursando Sistemas da Informação (FURB)
-- 🔍 Procurando um emprego como desenvolvedor front-end ou mobile
+- 🔍 Em busca de um emprego como desenvolvedor front-end ou mobile
 - ⚡ Sempre aprimorando meus conhecimentos
 - 🏁 Hobby: piloto de kart
 
@@ -16,13 +16,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKarsten&compact_layout=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## 📌 Tecnologias que estou estudando e já estudei 📌
+## 📌 Tecnologias que estou estudando📌
 
 <div style="display: inline_block/"><br/>
 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JAVA" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="JAVASCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="MYSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="TYPESCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </div>
   
  ## 📌 Contatos 📌
