@@ -6,14 +6,14 @@
 - ⚡ Sempre aprimorando meus conhecimentos
 - 🏁 Hobby: piloto de kart
 
-
-
-[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_karsten/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCneDYw23fvR37N7AMdKvACA)
-
+<div>
 ![ThiagoKarsten GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoKarsten&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoKarsten&compact_layout=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+[![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago_karsten/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCneDYw23fvR37N7AMdKvACA)
 
 
 ## 📌 Tecnologias que estou estudando📌
