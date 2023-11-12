@@ -2,7 +2,7 @@
 
 - 🌱 "A tecnologia move o mundo"
 - 💻 Cursando Sistemas da Informação (FURB)
-- 🔍 Em busca de um emprego como desenvolvedor front-end ou mobile
+- 🔍 Em busca de um emprego como desenvolvedor front-end
 - ⚡ Sempre aprimorando meus conhecimentos
 - 🏁 Hobby: piloto de kart
 
