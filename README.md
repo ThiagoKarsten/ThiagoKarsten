@@ -4,7 +4,7 @@
 - 💻 Cursando Sistemas da Informação (FURB)
 - 🔍 Em busca de um emprego como desenvolvedor front-end
 - ⚡ Sempre aprimorando meus conhecimentos
-- 🏁 Hobby: piloto de kart
+- 🏁 Coach de Kart
 
 ![ThiagoKarsten GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoKarsten&show_icons=true&theme=transparent)
 
